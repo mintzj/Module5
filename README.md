@@ -1,3 +1,5 @@
+Part of the UW 2015 big data course which Songqing and Kalbi attended. This part covers supervised reproducible research, RMD, Github.
+
 ---
 title: 'SISBID 2015 Module 5: Reproducible Research'
 author: "Keith Baggerly"
